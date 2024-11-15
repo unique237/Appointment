@@ -4,7 +4,7 @@ Assignment SIGL
 Group Members:
 1. MBAME MBAME MARTIN JAMES
 2. FOFOU KUETE MOISE 
-3.
+3. TIMNOU TCHUINTE Yvan Steeve
 4.
 5.
 6.
