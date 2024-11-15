@@ -3,7 +3,7 @@ Assignment SIGL
 #INF 465 GROUP B
 Group Members:
 1. MBAME MBAME MARTIN JAMES
-2.
+2. FOFOU KUETE MOISE 
 3.
 4.
 5.
