@@ -6,7 +6,7 @@ Group Members:
 2. FOFOU KUETE MOISE 
 3. TIMNOU TCHUINTE YVAN Steeve
 4.  MENGUE Michel Xavier
-5.
+5. TCHOUALA NODEM BOREL
 6.
 7.
 8.
