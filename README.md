@@ -1,7 +1,7 @@
 # Appointment
 Assignment SIGL
 #INF 465 GROUP B
-Group Members:
+Members:
 1. MBAME MBAME MARTIN JAMES
 2. FOFOU KUETE MOISE 
 3. TIMNOU TCHUINTE YVAN Steeve
