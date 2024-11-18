@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Twilio Project</title>
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container mt-5">
+      <h1 class="text-center">Twilio Project</h1>
+
+      <div id="register" class="mb-4">
+        <h2>Register</h2>
+        <div class="input-group mb-3">
+          <input
+            type="text"
+            id="phone"
+            class="form-control"
+            placeholder="Phone number"
+            required
+          />
+          <div class="input-group-append">
+            <button class="btn btn-primary" onclick="register()">
+              Register
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div id="verify" class="mb-4">
+        <h2>Verify OTP</h2>
+        <div class="input-group mb-3">
+          <input
+            type="text"
+            id="otp"
+            class="form-control"
+            placeholder="Enter OTP"
+            required
+          />
+          <div class="input-group-append">
+            <button class="btn btn-success" onclick="verify()">Verify</button>
+          </div>
+        </div>
+      </div>
+      <h2 class="mt-5">Liste des rappels planifiés</h2>
+      <table class="table table-striped" id="reminders-table">
+        <thead>
+          <tr>
+            <th>Numéro de téléphone</th>
+            <th>Date</th>
+            <th>Message</th>
+            <th>Statut</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
