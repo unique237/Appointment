@@ -1,0 +1,12 @@
+ACCOUNT_SID=
+AUTH_TOKEN=
+
+# Variables for function ""
+# ---
+# description: SID of your Twilio Verify Service
+# format: sid
+# link: https://www.twilio.com/console/verify/services
+# required: true
+VERIFY_SERVICE_SID=
+nommer ce fichier .env et reseigner les valeurs de ACCOUNT_SID
+AUTH_TOKEN et VERIFY_SERVICE_SID
