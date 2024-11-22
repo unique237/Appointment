@@ -1,0 +1,10 @@
+ACCOUNT_SID=AC2958022839a97897d6a24f3d2572e03d
+AUTH_TOKEN=d0dd70f7f2bf1a7e31ec52bf63f9f3be
+
+# Variables for function ""
+# ---
+# description: SID of your Twilio Verify Service
+# format: sid
+# link: https://www.twilio.com/console/verify/services
+# required: true
+VERIFY_SERVICE_SID=MGaa9f2545f9f52746e337467ff608bac8
