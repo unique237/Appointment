@@ -12,6 +12,6 @@ Members:
 7. Cho Bih Marie France
 8. NANA Franck Eric
 9. BANA TAGHUE Evrard Jordan
-10.
+10. NKONKAM WANDJI DAULIN CLAIR 
 
 #Description
