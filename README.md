@@ -9,8 +9,7 @@ Members:
 5. TCHOUALA NODEM BOREL
 6. Ambassa Bienvenu Prosper
 7.  Cho Bih Marie France
-8.
-9.
+8. NANA Franck Eric 
 10.
 
 #Description
